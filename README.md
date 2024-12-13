@@ -23,6 +23,7 @@ This repository contains all the materials for my presentation about **Prompt En
 ├── Prompt-Engineering.RAGs.CrewAI.pdf    # Presentation slides in PDF format
 └── .gitignore                             # Git ignore configuration
 ```
+Consider that because `Prompt-Engineering.RAGs.CrewAI.pptx` file size is bigger than 100MB (github limitation), I put this file into 2 parts of a zip file.
 
 ## Getting Started
 
