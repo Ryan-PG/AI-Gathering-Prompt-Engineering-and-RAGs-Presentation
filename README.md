@@ -44,8 +44,8 @@ Consider that because `Prompt-Engineering.RAGs.CrewAI.pptx` file size is bigger 
 
 You can watch parts of the presentation on YouTube:
 
-1. [Part 1: Prompt Engineering](https://youtu.be/YourPart1Link)
-2. [Part 2: RAGs and Applications and Usage](https://youtu.be/YourPart2Link)
+1. [Part 1: Prompt Engineering](https://www.youtube.com/watch?v=p6S4570hnqo)
+2. [Part 2: RAGs and Applications and Usage](https://www.youtube.com/watch?v=94_shPg1uAg)
 
 ## Contributing
 
